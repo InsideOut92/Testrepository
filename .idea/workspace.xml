@@ -1,15 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a723af3f-a82e-45ee-bbdc-912aa2b7275f" name="Changes" comment="Tried to create Pong but failed at the enemy... -.-">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PongUnterricht/PongUnterricht.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PongUnterricht/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PongUnterricht/src/Pong/Ball.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PongUnterricht/src/Pong/PongFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PongUnterricht/src/Pong/PongGame.java" afterDir="false" />
+    <list default="true" id="a723af3f-a82e-45ee-bbdc-912aa2b7275f" name="Changes" comment="Pong created in Schooling">
+      <change afterPath="$PROJECT_DIR$/PongUnterricht/src/AbstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PongUnterricht/src/InterfaceOneClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PongUnterricht/src/Pong/Paddle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PongUnterricht/src/interfaceOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PongUnterricht/src/interfaceTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anotherOne/anotherOne.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anotherOne/src/InterfaceOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anotherOne/src/InterfaceOneClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anotherOne/src/InterfaceTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anotherOne/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anotherOne/src/Pong/AbstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anotherOne/src/Pong/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anotherOne/src/Pong/Paddle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anotherOne/src/Pong/PongFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anotherOne/src/Pong/PongGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PongUnterricht/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/PongUnterricht/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PongUnterricht/src/Pong/Ball.java" beforeDir="false" afterPath="$PROJECT_DIR$/PongUnterricht/src/Pong/Ball.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PongUnterricht/src/Pong/PongFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/PongUnterricht/src/Pong/PongFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PongUnterricht/src/Pong/PongGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/PongUnterricht/src/Pong/PongGame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +35,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -47,9 +61,22 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "21",
+    "last_opened_file_path": "/Users/patrick/IdeaProjects/PongTry1/anotherOne/src",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/anotherOne/src" />
+      <recent name="$PROJECT_DIR$/anotherOne/src/Pong" />
+      <recent name="$PROJECT_DIR$/PongUnterricht/src/Pong" />
+      <recent name="$PROJECT_DIR$/PongUnterricht/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/PongUnterricht/src" />
+      <recent name="$PROJECT_DIR$/PongUnterricht/src/Pong" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -66,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1706474032143</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Pong created in Schooling">
+      <created>1706525724420</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706525724420</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,6 +116,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Tried to create Pong but failed at the enemy... -.-" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tried to create Pong but failed at the enemy... -.-" />
+    <MESSAGE value="Pong created in Schooling" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pong created in Schooling" />
   </component>
 </project>
